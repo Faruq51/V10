@@ -1,0 +1,17 @@
+{
+    "ownerNumber": "6285807264974@s.whatsapp.net", 
+    "ownerName": "FARUQ OFC", 
+    "botName": "SIMPLE BOT",
+    "footer": "© SIMPLE BOT | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© PoweredBy0@s.whatsapp.net",
+        "author": "FARUQ OFC"
+    }
+}
